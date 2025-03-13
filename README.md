@@ -18,3 +18,4 @@ This repository contains an interactive Sales Dashboard created in Excel. The da
 
 ## Dashboard Preview
 
+![Screenshot](https://github.com/user-attachments/assets/a0e9efbc-f2a3-4463-88eb-822de5bf02fa)
